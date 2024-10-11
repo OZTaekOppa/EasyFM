@@ -37,7 +37,7 @@ python -m venv venv
 source venv/bin/activate
 
 # Get source
-git clone https://github.com/TaekAndBrendan/EasyFM.git
+git clone https://github.com/OZTaekOppa/EasyFM.git
 cd easyfm
 
 # Install packages
