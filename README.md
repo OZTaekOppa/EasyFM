@@ -1,7 +1,4 @@
-# EasyFM
 # _EasyFM_: An Easy software suite for File Manipulation of Next Generation Sequencing data
-
-Hyungtaek Jung et al.
 
 ----
 
