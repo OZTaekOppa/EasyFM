@@ -1,5 +1,5 @@
 # EasyFM
-# _EasyFM_: An easy software suite for file manipulation of Next Generation Sequencing data
+# _EasyFM_: An Easy software suite for File Manipulation of Next Generation Sequencing data
 
 Hyungtaek Jung and Daniel Ortiz-Barrientos
 
