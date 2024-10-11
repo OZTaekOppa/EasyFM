@@ -1,7 +1,5 @@
 # _EasyFM_: An Easy software suite for File Manipulation of Next Generation Sequencing data
 
-----
-
 ## 1 Brief Background
 
 **Easy** **F**ile **M**anipulation (**_EasyFM_**) is a lightweight suite of software tools for working with Next Generation Sequencing datasets (e.g. fastq, fasta, gff, and gtf) on desktops and laptops. This program is to provide a graphical environment for biologists using NGS data who are less experienced in coding and command lines. As a lightweight (but powerful) desktop/laptop application, we have tested it for short (e.g. Illumina) and long-read data (PacBio and Oxford Nanopore) focusing on a small and medium scale .fastq, .fasta, .gff, and .gtf files that can be widely used to the greater research community.
